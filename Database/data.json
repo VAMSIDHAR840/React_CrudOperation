@@ -1,0 +1,60 @@
+{
+  "Vamsi": [
+    {
+      "name": "Vamsidhar Reddy G",
+      "maths": "72",
+      "phy": "67",
+      "che": "60",
+      "id": 1
+    },
+    {
+      "name": "Chandana G",
+      "maths": "99",
+      "phy": "78",
+      "che": "52",
+      "id": 3
+    },
+    {
+      "name": "Anilkumar Reddy P",
+      "maths": "55",
+      "phy": "89",
+      "che": "89",
+      "id": 4
+    },
+    {
+      "name": "Revethi G",
+      "maths": "88",
+      "phy": "95",
+      "che": "89",
+      "id": 5
+    },
+    {
+      "name": "",
+      "maths": "",
+      "phy": "",
+      "che": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "maths": "",
+      "phy": "",
+      "che": "",
+      "id": 7
+    },
+    {
+      "name": "",
+      "maths": "",
+      "phy": "",
+      "che": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "maths": "",
+      "phy": "",
+      "che": "",
+      "id": 9
+    }
+  ]
+}
